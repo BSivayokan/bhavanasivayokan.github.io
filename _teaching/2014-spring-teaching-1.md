@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Assistant Lecturer"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate medical course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Jaffna, Faculty of Medicine, Department of Biochemistry"
+date: 2022-11-01
+location: "Jaffna, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Modules covered: 
+Basic biochemistry of lipids, Basic biochemistry of enzymes, The flow of genetic information
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Supervised laboratory practical sessions. 
+Led small group discussions. 
+Served as an invigilator for end-of-course examinations, and graded in-course and end-of-course examination answer scripts of medical, indigenous medical, and allied health students (120 - 200 students).
