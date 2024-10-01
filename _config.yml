@@ -24,8 +24,8 @@ author:
   avatar           : "me.png"
   name             : "Bhavana Sivayokan"
   pronouns         : "she/her"  
-  bio              : "A graduate student in the Department of Psychology at K-State. Research interests lie in neurodevelopmental disorders"
-  location         : "United States"
+  bio              : "A graduate student in the Department of Psychology at K-State"
+  location         : "Manhattan, KS, United States"
   employer         : "Kansas State University"
   uri              : # URL
   email            : "bhavana@ksu.edu" 
@@ -80,7 +80,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Abstracts'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
