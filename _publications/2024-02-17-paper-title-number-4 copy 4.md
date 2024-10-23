@@ -2,7 +2,7 @@
 title: "Sensory Issues and Their Impact Among Autistic Children: A Cross-Sectional Study in Northern Sri Lanka"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-07-28-paper-title-number-4
+permalink: /publication/2024-10-22-paper-title-number-4
 excerpt: ''
 date: 2024-10-22
 venue: 'Cureus'
