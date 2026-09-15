@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Psychology, 2028(expected)
-* M.S in Psychology, 2026
+* Ph.D in Psychology, Kansas State University, 2028 (expected)
+* M.S in Psychology, Kansas State University, 2026
 * B.Sc. in Medical Science, University of Jaffna, Sri Lanka, 2022
 
 Work experience
