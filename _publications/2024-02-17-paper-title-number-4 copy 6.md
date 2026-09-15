@@ -1,0 +1,12 @@
+---
+title: "Automated behavior analysis in the novel object recognition test"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-10-22-paper-title-number-4
+excerpt: ''
+date: 2026-06-01
+venue: 'Cureus'
+paperurl: 'https://doi.org/10.1016/j.neucom.2026.134141'
+citation: 'Alfs-Votipka, E., Sivayokan, B., Bakshi, A., Gheibuni, S., Caragea, D., Plakke, B., Turner, D., & Andresen, D. (2026). Automated behavior analysis in the novel object recognition test. Neurocomputing, 697, 134141.'
+---
+Accurate identification of animal behaviors is fundamental to behavioral neuroscience, yet manual annotation remains a major bottleneck due to its subjectivity, limited scalability, and high labor cost. This work presents a unified deep learning and heuristic-based framework for automated behavior classification in the Novel Object Recognition Test (NORT), a widely used paradigm for assessing memory and cognitive function in rodents. We fine-tuned a YOLOv11 Pose model to detect nose and tail-base keypoints specific to Long-Evans rats, and used these keypoints to derive spatial heuristics for identifying NORT behaviors. In parallel, we trained YOLOv11 classification models to predict Standing, Object Interaction, and Other behaviors from individual frames, using datasets containing either 2-object or 5-object videos, as well as a combined dataset containing both 2-object and 5-object videos. Our model trained on the combined dataset, enhanced with heuristic-based post-processing to identify the specific objects that the rat is interacting with, achieved the best overall accuracy and generalization across arenas, outperforming heuristic-only and subset-specific 2-object or 5-object models. Detailed confusion matrices and error analyses reveal that most errors occur near behavioral transitions, reflecting the inherent ambiguity of manual labels at frame-level. The proposed framework enables scalable, reproducible, and objective annotation of NORT videos and provides a foundation for future extensions toward temporally-aware behavioral analysis. All the code and model weights, together with sample NORT videos, will be made publicly available to support future rodent behavior recognition research.
