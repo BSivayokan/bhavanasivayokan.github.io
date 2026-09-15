@@ -3,7 +3,7 @@ title: "Adolescent Treadmill Exercise Enhances Hippocampal Brain-Derived Neurotr
 (BDNF) Expression and Improves Cognition in Autism-Modeled Rats"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-14-paper-title-number-4
+permalink: /publication/2024-07-14-paper-title-number-7
 excerpt: ''
 date: 2024-07-14
 venue: 'Physiology & Behavior'

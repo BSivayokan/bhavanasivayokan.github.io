@@ -2,7 +2,7 @@
 title: "Structured Physical Activity Program as an Effective Adjuvant Intervention for Autistic Children in Low-resource Settings"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-22-paper-title-number-4
+permalink: /publication/2026-01-21-paper-title-number-4
 excerpt: ''
 date: 2026-01-21
 venue: 'Journal of Indian Association for Child and Adolescent Mental Health'

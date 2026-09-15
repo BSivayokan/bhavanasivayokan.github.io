@@ -2,7 +2,7 @@
 title: "Automated behavior analysis in the novel object recognition test"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-22-paper-title-number-4
+permalink: /publication/2026-06-01-paper-title-number-4
 excerpt: ''
 date: 2026-06-01
 venue: 'Neurocomputing'

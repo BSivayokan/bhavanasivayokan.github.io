@@ -2,7 +2,7 @@
 title: "Decline in empathy among healthcare workers"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-01-paper-title-number-4
+permalink: /publication/2024-07-01-paper-title-number-6
 excerpt: ''
 date: 2024-07-01
 venue: 'Asian Journal of Internal Medicine'

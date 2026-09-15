@@ -2,7 +2,7 @@
 title: "Depression, Disability, and Cognitive Impairment Among Elders With Medical Illnesses Attending Follow-Up Clinics at a Tertiary Care Hospital in Northern Sri Lanka"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-12-10-paper-title-number-2
+permalink: /publication/2022-12-11-paper-title-number-2
 excerpt: ''
 date: 2022-12-11
 venue: 'Cureus'
