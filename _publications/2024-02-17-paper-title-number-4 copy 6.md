@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-10-22-paper-title-number-4
 excerpt: ''
 date: 2026-06-01
-venue: 'Cureus'
+venue: 'Neurocomputing'
 paperurl: 'https://doi.org/10.1016/j.neucom.2026.134141'
 citation: 'Alfs-Votipka, E., Sivayokan, B., Bakshi, A., Gheibuni, S., Caragea, D., Plakke, B., Turner, D., & Andresen, D. (2026). Automated behavior analysis in the novel object recognition test. Neurocomputing, 697, 134141.'
 ---
