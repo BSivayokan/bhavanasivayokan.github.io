@@ -50,11 +50,11 @@ Publications
 Honors and awards
 ======
 * Oral Presentation Winner at the K-State Graduate Research, Arts, and Discovery
-(K-GRAD) Forum | Awarded by the Graduate School at Kansas State University - 2026
-* Graduate Research, Scholarly and Creative Activities, and Discovery Grant | Awarded by the Graduate School at Kansas State University - 2024
+(K-GRAD) Forum. Awarded by the Graduate School at Kansas State University - 2026
+* Graduate Research, Scholarly and Creative Activities, and Discovery Grant. Awarded by the Graduate School at Kansas State University - 2024
 * Kansas State University Graduate Student Council (GSC) Travel Award - 2024, 2025
 * Kansas State University College of Arts and Sciences Student Travel Award - 2024, 2025
-* Prof. R. Kanagasuntheram gold medal for having obtained the highest marks among those who obtained Distinction in Anatomy at the first examination for medical degrees | Awarded by the University of Jaffna, Sri Lanka - 2019
+* Prof. R. Kanagasuntheram gold medal for having obtained the highest marks among those who obtained Distinction in Anatomy at the first examination for medical degrees. Awarded by the University of Jaffna, Sri Lanka - 2019
 
   
 Service and leadership
